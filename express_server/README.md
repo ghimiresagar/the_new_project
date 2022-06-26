@@ -1,6 +1,6 @@
 # Express Server part
 
-Need to install package before starting.
+Need to install package before starting using `npm install`.
 
 ### `npm start`
 
